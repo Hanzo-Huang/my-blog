@@ -4,7 +4,7 @@ published: 2025-04-15
 description: "在 Keil 中开发 STM32 工程时，CubeMX 生成的代码缩进和格式常常不统一。本文将详细讲解如何在 Keil 中集成 clang-format，配置快捷键，实现类似 VSCode 的一键自动格式化，让代码始终保持整洁一致。"
 image: ""
 tags: [STM32, 嵌入式开发]
-category: "开发环境"
+category: "tutorials"
 draft: false
 lang: "zh_CN"
 ---

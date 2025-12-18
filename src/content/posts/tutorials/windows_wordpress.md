@@ -4,7 +4,7 @@ published: 2024-04-26
 description: "Windows配置Nginx、PHP并部署WordPress"
 image: ""
 tags: [Windows]
-category: "Web部署"
+category: "tutorials"
 draft: false
 lang: "zh_CN"
 ---

@@ -4,7 +4,7 @@ published: 2025-10-30
 description: "使用C语言学习网络编程并编写CGI Server"
 image: ""
 tags: []
-category: "program"
+category: "notes"
 draft: false
 lang: "zh-CN"
 ---
