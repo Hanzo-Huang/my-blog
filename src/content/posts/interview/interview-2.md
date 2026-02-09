@@ -5,7 +5,7 @@ description: "嵌入式C语言面试题"
 image: ""
 tags: []
 category: "interview"
-draft: false
+draft: true
 lang: "zh-CN"
 ---
 

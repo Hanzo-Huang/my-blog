@@ -5,7 +5,7 @@ description: "嵌入式笔试面试题总结"
 image: ""
 tags: []
 category: "interview"
-draft: false
+draft: true
 lang: "zh-CN"
 ---
 
