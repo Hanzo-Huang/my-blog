@@ -61,7 +61,7 @@ lang: "zh_CN"
 
 **停止 nginx：**
 
-```bash
+```cmd
 cd C:\server\nginx
 nginx.exe -s stop
 ```
@@ -236,4 +236,4 @@ exit
 ## 参考资料
 
 - [Windows 下搭建 nginx+php 开发环境 - 博客园](https://www.cnblogs.com/wwjchina/p/9804576.html)
-- [如何更改 WordPress 语言为中文 - CSDN](https://huaweicloud.csdn.net/635665e1d3efff3090b5d33a.html)
+- [如何更改 WordPress 语言为中文 - CSDN](https://blog.csdn.net/muyuyude/article/details/114964681)
